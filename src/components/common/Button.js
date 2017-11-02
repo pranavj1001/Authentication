@@ -21,7 +21,8 @@ const styles = {
     borderWidth: 1,
     borderColor: '#6ae368',
     marginLeft: 5,
-    marginRight: 5
+    marginRight: 5,
+    marginBottom: 10
   },
   buttonTextStyle: {
     alignSelf: 'center',
