@@ -14,7 +14,9 @@ Also, after logging in the user, the user is to taken to another page where the 
 
 ## ScreenShot
 
-UPLOADING...
+<p align="center">
+<img src="ScreenShot.png">
+</p>
 
 ## To get started
 
@@ -28,7 +30,7 @@ UPLOADING...
 
 **Note**: The above mentioned guide has been tried and tested on mac. However, the same guide should also work on windows machines.
 
-## Queries
+## Queries?
 
 email me at pranavj1001@gmail.com
 
